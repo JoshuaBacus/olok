@@ -28,8 +28,8 @@ async def _auto_bump(ctx, channelid): # b'\xfc'
             channel = bot.get_channel(int(channelid))
             await channel.send('@Nutz#0001 server can be bump!')           
             print(f'[AUTO-BUMP] Bump number: {count} sent')
-            await asyncio.sleep(7200)
+            await asyncio.sleep(20)
         except Exception as e:
             print(f"[ERROR]: {e}")
 
-bot.run("NzQxNDk4MTE3ODk5MTU3NTc1.Xy4b7w.IsmxjxWL_Kp-tCzEeWTGJRkSM_s")
+bot.run("NzQxNDk4MTE3ODk5MTU3NTc1.Xy4b7w.HnNXlLtUDCPFuvp05_0ciiGvLEo")
