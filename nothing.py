@@ -32,4 +32,4 @@ async def _auto_bump(ctx, channelid): # b'\xfc'
         except Exception as e:
             print(f"[ERROR]: {e}")
 
-bot.run("NzQxNDk4MTE3ODk5MTU3NTc1.Xy4b7w.eN8RLFyTkuJwQ4UYw2cDlKHROs0")
+bot.run("NzM5MzQ2NjczOTQ3Mzc3NzA2.XyZIPw.s1od_HXyWVZuQ3hgg8CQdzaiOZc")
