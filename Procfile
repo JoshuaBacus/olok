@@ -1,1 +1,1 @@
-worker: nothing.py
+worker: python nothing.py
